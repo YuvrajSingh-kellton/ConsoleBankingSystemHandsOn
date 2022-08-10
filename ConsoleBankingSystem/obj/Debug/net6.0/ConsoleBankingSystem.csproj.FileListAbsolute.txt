@@ -1,0 +1,15 @@
+D:\C# Programs\ConsoleBankingSystem\bin\Debug\net6.0\ConsoleBankingSystem.exe
+D:\C# Programs\ConsoleBankingSystem\bin\Debug\net6.0\ConsoleBankingSystem.deps.json
+D:\C# Programs\ConsoleBankingSystem\bin\Debug\net6.0\ConsoleBankingSystem.runtimeconfig.json
+D:\C# Programs\ConsoleBankingSystem\bin\Debug\net6.0\ConsoleBankingSystem.dll
+D:\C# Programs\ConsoleBankingSystem\bin\Debug\net6.0\ConsoleBankingSystem.pdb
+D:\C# Programs\ConsoleBankingSystem\obj\Debug\net6.0\ConsoleBankingSystem.csproj.AssemblyReference.cache
+D:\C# Programs\ConsoleBankingSystem\obj\Debug\net6.0\ConsoleBankingSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programs\ConsoleBankingSystem\obj\Debug\net6.0\ConsoleBankingSystem.AssemblyInfoInputs.cache
+D:\C# Programs\ConsoleBankingSystem\obj\Debug\net6.0\ConsoleBankingSystem.AssemblyInfo.cs
+D:\C# Programs\ConsoleBankingSystem\obj\Debug\net6.0\ConsoleBankingSystem.csproj.CoreCompileInputs.cache
+D:\C# Programs\ConsoleBankingSystem\obj\Debug\net6.0\ConsoleBankingSystem.dll
+D:\C# Programs\ConsoleBankingSystem\obj\Debug\net6.0\refint\ConsoleBankingSystem.dll
+D:\C# Programs\ConsoleBankingSystem\obj\Debug\net6.0\ConsoleBankingSystem.pdb
+D:\C# Programs\ConsoleBankingSystem\obj\Debug\net6.0\ConsoleBankingSystem.genruntimeconfig.cache
+D:\C# Programs\ConsoleBankingSystem\obj\Debug\net6.0\ref\ConsoleBankingSystem.dll
